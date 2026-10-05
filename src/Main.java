@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String args[]) {
         ejercicio1("Pera");
-        ejercicio2();
+        ejercicio2("Rebaja");
         ejercicio3();
         ejercicio4();
         ejercicio5();
