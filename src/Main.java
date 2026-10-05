@@ -45,7 +45,10 @@ public class Main {
         System.out.println("Precio final: " + (precio + precio * IVA - rebaja));
     }
     public static void ejercicio3(){
-
+        int primerNumero = 10;
+        double precioFinal = 99.9;
+        boolean ES_MAYOR_DE_EDAD = true;
+        final float PI_VALOR = 3.1416f;
     }
 
     public static void ejercicio4(){
